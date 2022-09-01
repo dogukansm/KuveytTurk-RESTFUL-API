@@ -163,7 +163,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedin](https://linkedin.com/in/dogukansm) - dogukansm@icloud.com 
+Doğukan Şimşek - [@linkedin](https://linkedin.com/in/dogukansm) - dogukansm@icloud.com 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
