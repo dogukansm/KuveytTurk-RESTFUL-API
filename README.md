@@ -149,9 +149,7 @@ You need to change the lines below from the <b>`EnvHelper`</b> file in the <b>`H
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Some methods require `accessToken` and `signature`. These are nullable data. Therefore, in the methods where these are requested, you will get successful results if you only remove these two (fill in the other fields if any) and send them.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Some methods require `accessToken` and `signature`. These are nullable data. Therefore, in the methods where these are requested, you will get successful results if you only remove these two (fill in the other fields if any) and send them. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
